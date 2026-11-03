@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: gold;
+    font-size: 35px;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: silver;
+    font-size: 18px;
+}
